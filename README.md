@@ -7,6 +7,8 @@
   
 In this project, I analysed York City Bank’s Loan data for the year 2025. Used Machine Learning algorithms to develop a Training (80%) and Test (20%) dataset, performed 5-fold cross-validation, and performed Hyperparameter Tuning for better accuracy. 
 
+<img width="2752" height="1536" alt="zz" src="https://github.com/user-attachments/assets/1ed9494b-4122-48fd-9090-1bb11aff9a64" />
+
 ### ⚒️ Tools used:
 
 -	Jupyter Notebook
@@ -73,12 +75,8 @@ Mentioned below are the results after hyperparameter tuning –
  
 After performing hyperparameter tuning, it was found that ‘Random Forest Classifier’ (RFC) had the best improvement in accuracy from 77.76 to 80.66%. So, selected 'Random Forest Classifier' model for the entire dataset/production.
 
-
-<img width="1077" height="632" alt="9" src="https://github.com/user-attachments/assets/85c1467f-3750-4340-b77a-9bcb6c8cb3a0" />
-
-
 8.	Model deployment using ML ops
-  
+
 ### 💡Key Learnings:
 
 1.	Understanding Business Problems
@@ -88,7 +86,7 @@ After performing hyperparameter tuning, it was found that ‘Random Forest Class
 5.	Random Forest Classifier
 6.	Gradient Boosting Classifier
 
-## Author & Contact
+## Author & Contact:
 
 👩‍💻 Author: Pragyan Saikia
 
