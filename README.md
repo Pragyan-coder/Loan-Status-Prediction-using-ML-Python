@@ -7,7 +7,7 @@
   
 In this project, I analysed York City Bank’s Loan data for the year 2025. Used Machine Learning algorithms to develop a Training (80%) and Test (20%) dataset, performed 5-fold cross-validation, and performed Hyperparameter Tuning for better accuracy. 
 
-<img width="2752" height="1536" alt="zz" src="https://github.com/user-attachments/assets/1ed9494b-4122-48fd-9090-1bb11aff9a64" />
+<img width="1600" height="900" alt="Info" src="https://github.com/user-attachments/assets/8f176cf7-5bf3-486f-9c19-2b45f766ccd1" />
 
 ### ⚒️ Tools used:
 
